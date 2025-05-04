@@ -25,6 +25,7 @@ void check_pal() {
             }
         }
     }
+    cout << largest;
 }
 
 int main() {
